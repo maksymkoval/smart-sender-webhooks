@@ -2,6 +2,8 @@
 
 Застосунок із входом, списком вебхуків і редагуванням. Стек: React 19 + TypeScript (strict), MSW, TanStack Query, React Router, react-hook-form, Vitest.
 
+Демо: https://smart-sender-webhooks-mocha.vercel.app
+
 ## Запуск
 
 Потрібен Node.js 20+.
